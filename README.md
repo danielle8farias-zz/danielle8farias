@@ -33,6 +33,10 @@
   <img src="twitter_icon.png" alt="Twitter" width="5%" title="280 caracteres para xingar os outros">
 </a>
 
+<a href="https://t.me/danielle8farias">
+  <img src="telegram_icon.png" alt="Telegram" width="5%" title="Me liga, me manda um telegrama, que eu vou até lá...">
+</a>
+
 <a href="https://dev.to/danielle8farias">
   <img src="devto_icon.png" alt="Dev.to" width="5%" title="Happy hour dos devs">
 </a>
@@ -46,7 +50,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/danielle8farias">
-  <img src="linkedin_icon.png" alt="Linkedinho" width="5%" title="Coaches, mudança de mindset, empreendedorismo, meritocracia e outras bobagens">
+  <img src="linkedin_icon.png" alt="Linkedinho" width="5%" title="Coaches, mudança de mindset, meritocracia e outras bobagens">
 </a>
 
 <a href="https://mastodon.social/@danielle8farias">
@@ -56,7 +60,11 @@
   <img src="vk_icon.png" alt="VK" width="5.5%" title="Привет, дружище!">
 </a>
 <a href="https://gitlab.com/danielle8farias">
-  <img src="gitlab_icon.png" alt="Gitlab" width="5.5%" title="Onde muita gente fugiu com medo da Microsoft">
+  <img src="gitlab_icon.png" alt="Gitlab" width="5.5%" title="Pra onde muita gente fugiu com medo da Microsoft">
+</a>
+
+<a href="https://picpay.me/danielle8farias/5.0">
+  <img src="picpay-icon.png" alt="PicPay" width="5%" title="Eu podia tá matando, roubando, mas tô pedindo pra vc me pagar um café">
 </a>
 
 <p>ou envie-me um
