@@ -1,11 +1,21 @@
 <p align="center">
-  <img src="banner_profile.png" alt="Banner Profile" width="100%" title="Olá! 👋🏻">
+  <img src="bp_banner_profile.png" alt="Banner Profile" width="100%" title="Olá! 👋🏻">
 </p>
 
 ----
 
-![github stats](https://github-readme-stats.vercel.app/api?username=danielle8farias&show_icons=true&icon_color=cacaca&title_color=529e5e&text_color=33333B&hide_border=true&hide=prs,issues)
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielle8farias&layout=compact&hide_border=true&title_color=529e5e)
+<center>
+  <table>
+    <tr>
+        <td>
+          <img width="700px" align="left" src="https://github-readme-stats.vercel.app/api?username=danielle8farias&show_icons=true&icon_color=cacaca&title_color=529e5e&text_color=aaae8e&bg_color=0d1117&hide_border=true&hide=prs,issues">
+        </td>
+        <td>
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielle8farias&layout=compact&hide_border=true&title_color=529e5e&bg_color=0d1117&text_color=aaae8e" />
+        </td>
+    </tr>   
+  </table>
+</center>  
 
 ----
 
