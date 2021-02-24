@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bp_banner_profile.png" alt="Banner Profile" width="100%" title="Olá! 👋🏻">
+  <img src="banner_profile1.png" alt="Banner Profile" width="100%" title="Olá! 👋🏻">
 </p>
 
 ----
@@ -51,6 +51,10 @@
   <img src="devto_icon.png" alt="Dev.to" width="5%" title="Happy hour dos devs">
 </a>
 
+<a href="https://filmow.com/usuario/danielle8farias">
+  <img src="filmow_icon.png" alt="Filmow" width="5.5%" title="Vamos trocar figurinhas sobre filmes e séries">
+</a>
+
 <a href="https://www.instagram.com/danielle8farias">
   <img src="instagram_icon.png" alt="Instagram" width="5%" title="Onde a vida é uma mentira">
 </a>
@@ -73,13 +77,9 @@
   <img src="gitlab_icon.png" alt="Gitlab" width="5.5%" title="Pra onde muita gente fugiu com medo da Microsoft">
 </a>
 
-<a href="https://picpay.me/danielle8farias/5.0">
-  <img src="picpay-icon.png" alt="PicPay" width="5%" title="Eu podia tá matando, roubando, mas tô pedindo pra vc me pagar um café">
-</a>
-
 <p>ou envie-me um
   <a href="mailto:danielle8farias@gmail.com">
-    Email 📨</a>
+    Pix, quer dizer, Email 📨</a>
 </p>
 
 ----
